@@ -1,0 +1,19 @@
+black:#010101;
+blue: #313841;
+ash: #898989;
+yellow: #fcdb00;
+
+   md      sm      col
+h1 32px   32px     26px
+h3 
+
+
+
+
+padding top:100
+padding bottom:120
+
+
+xxl-xl        md        sm               col
+100           80        60               50   
+120           100       80               70
